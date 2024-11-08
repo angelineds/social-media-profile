@@ -28,11 +28,8 @@ Users should be able to:
 ![On Hover state](./screenshot-3.png)
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://angelineds.github.io/social-media-profile](https://angelineds.github.io/social-media-profile/)
 
 ## Other Projects
 
 - Portfolio Website - [angeline-portfolio.netlify.app](https://angeline-portfolio.netlify.app)
-"# social-media-profile" 
