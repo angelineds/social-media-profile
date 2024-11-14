@@ -8,7 +8,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
   - [Links](#links)
-- [Author](#author)
+- [Other](#other)
 
 ## Overview
 
@@ -30,6 +30,7 @@ Users should be able to:
 ### Links
 - Live Site URL: [https://angelineds.github.io/social-media-profile](https://angelineds.github.io/social-media-profile/)
 
-## Other Projects
+## Other
 
+Other Projects:
 - Portfolio Website - [angeline-portfolio.netlify.app](https://angeline-portfolio.netlify.app)
